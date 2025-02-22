@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh",
+  "helloWorld": "你好!",
+  "main":"主页",
+  "my":"我的",
+  "menu":"菜单",
+  "setting":"设定",
+  "help":"帮助",
+  "about":"关于",
+  "tools":"工具",
+  "auth":"认证",
+  "theme":"主题",
+  "convert":"转换",
+  "language":"语言"
+}

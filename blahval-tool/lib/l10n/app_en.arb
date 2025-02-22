@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World!",
+  "main":"Main",
+  "my":"My",
+  "menu":"Menu",
+  "setting":"Setting",
+  "help":"Help",
+  "about":"About",
+  "tools":"Tools",
+  "auth":"Auth",
+  "theme":"Theme",
+  "convert":"Convert",
+  "language":"Language"
+}
